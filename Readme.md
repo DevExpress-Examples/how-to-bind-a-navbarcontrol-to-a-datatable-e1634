@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/NavBarBinding/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/NavBarBinding/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/NavBarBinding/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/NavBarBinding/MainWindow.xaml))
+<!-- default file list end -->
 # How to bind a NavBarControl to a DataTable
 
 
